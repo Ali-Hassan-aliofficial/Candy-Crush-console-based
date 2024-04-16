@@ -1,0 +1,20 @@
+﻿  Source.cpp
+E:\Visual code data\Project34\Source.cpp(12,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+E:\Visual code data\Project34\Source.cpp(22,13): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+E:\Visual code data\Project34\Source.cpp(131,17): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+E:\Visual code data\Project34\Source.cpp(139,17): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+E:\Visual code data\Project34\Source.cpp(146,17): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+E:\Visual code data\Project34\Source.cpp(153,17): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+E:\Visual code data\Project34\Source.cpp(160,17): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+E:\Visual code data\Project34\Source.cpp(203,17): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+E:\Visual code data\Project34\Source.cpp(211,17): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+E:\Visual code data\Project34\Source.cpp(218,17): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+E:\Visual code data\Project34\Source.cpp(225,17): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+E:\Visual code data\Project34\Source.cpp(232,17): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+E:\Visual code data\Project34\Source.cpp(275,17): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+E:\Visual code data\Project34\Source.cpp(283,17): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+E:\Visual code data\Project34\Source.cpp(290,17): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+E:\Visual code data\Project34\Source.cpp(334,17): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+E:\Visual code data\Project34\Source.cpp(342,17): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+E:\Visual code data\Project34\Source.cpp(349,17): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Project34.vcxproj -> E:\Visual code data\Project34\x64\Debug\Project34.exe
